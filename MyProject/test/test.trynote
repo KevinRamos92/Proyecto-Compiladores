@@ -1,0 +1,24 @@
+program compiler {
+var y; 
+	
+y=5;
+
+x=3;
+
+7*3 
+
+14/7
+
+println 33;
+
+if(admitido>15){pasar;}
+
+do {println 2;}while(x=15)
+
+for(int i>13; i==1; i++){println"i";}
+
+if(alumnos>7){parcial;}
+
+-5+3
+	
+}
